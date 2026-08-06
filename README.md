@@ -1,11 +1,14 @@
 # Data-Exploration
 Summarize the Datasets shape,data types and Statistics. 
+-----------------------------------
 Data Cleaning should be done
 ✔ Handling Missing values using IF and AverageIF Function to Replace it.
+---------------------------------
 # Data Exploration in Excel – SalesDatabase
 
 This repository contains an exploratory analysis of the **SalesDatabase** dataset using Excel functions and techniques.  
 The goal is to demonstrate how raw data can be cleaned, transformed, and explored to uncover insights before advanced modeling or visualization.
+----------------------------
 
 ## Contents
 - `Data_Exploration_Report.md` – Detailed report of findings
